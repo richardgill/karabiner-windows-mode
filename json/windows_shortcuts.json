@@ -1,7 +1,7 @@
 {
    "rules": [
       {
-         "description": "Insert (Ctrl) [+Terminal Emulators]",
+         "description": "<C-Insert> (Terminal Emulators)",
          "manipulators": [
             {
                "conditions": [
@@ -60,7 +60,7 @@
          ]
       },
       {
-         "description": "Insert (Ctrl)",
+         "description": "<C-Insert> (Standard)",
          "manipulators": [
             {
                "conditions": [
@@ -124,7 +124,7 @@
          ]
       },
       {
-         "description": "Insert (Shift) [+Terminal Emulators]",
+         "description": "<S-Insert> (Terminal Emulators)",
          "manipulators": [
             {
                "conditions": [
@@ -183,7 +183,7 @@
          ]
       },
       {
-         "description": "Insert (Shift)",
+         "description": "<S-Insert> (Standard)",
          "manipulators": [
             {
                "conditions": [
@@ -247,7 +247,7 @@
          ]
       },
       {
-         "description": "Home",
+         "description": "<Home> (Standard)",
          "manipulators": [
             {
                "conditions": [
@@ -308,7 +308,7 @@
          ]
       },
       {
-         "description": "Home (Ctrl)",
+         "description": "<C-Home> (Standard)",
          "manipulators": [
             {
                "conditions": [
@@ -372,7 +372,7 @@
          ]
       },
       {
-         "description": "Home (Shift)",
+         "description": "<S-Home> (Standard)",
          "manipulators": [
             {
                "conditions": [
@@ -437,7 +437,7 @@
          ]
       },
       {
-         "description": "Home (Ctrl+Shift)",
+         "description": "<C-S-Home> (Standard)",
          "manipulators": [
             {
                "conditions": [
@@ -503,7 +503,7 @@
          ]
       },
       {
-         "description": "End",
+         "description": "<End> (Standard)",
          "manipulators": [
             {
                "conditions": [
@@ -564,7 +564,7 @@
          ]
       },
       {
-         "description": "End (Ctrl)",
+         "description": "<C-End> (Standard)",
          "manipulators": [
             {
                "conditions": [
@@ -628,7 +628,7 @@
          ]
       },
       {
-         "description": "End (Shift)",
+         "description": "<S-End> (Standard)",
          "manipulators": [
             {
                "conditions": [
@@ -693,7 +693,7 @@
          ]
       },
       {
-         "description": "End (Ctrl+Shift)",
+         "description": "<C-S-End> (Standard)",
          "manipulators": [
             {
                "conditions": [
@@ -759,7 +759,7 @@
          ]
       },
       {
-         "description": "Left Arrow (Ctrl)",
+         "description": "<C-Left Arrow> (Standard)",
          "manipulators": [
             {
                "conditions": [
@@ -823,7 +823,7 @@
          ]
       },
       {
-         "description": "Left Arrow (Ctrl+Shift)",
+         "description": "<C-S-Left Arrow> (Standard)",
          "manipulators": [
             {
                "conditions": [
@@ -889,7 +889,7 @@
          ]
       },
       {
-         "description": "Right Arrow (Ctrl)",
+         "description": "<C-Right Arrow> (Standard)",
          "manipulators": [
             {
                "conditions": [
@@ -953,7 +953,7 @@
          ]
       },
       {
-         "description": "Right Arrow (Ctrl+Shift)",
+         "description": "<C-S-Right Arrow> (Standard)",
          "manipulators": [
             {
                "conditions": [
@@ -1019,7 +1019,7 @@
          ]
       },
       {
-         "description": "Backspace (Ctrl)",
+         "description": "<C-Backspace> (Standard)",
          "manipulators": [
             {
                "conditions": [
@@ -1083,7 +1083,7 @@
          ]
       },
       {
-         "description": "Delete (Ctrl)",
+         "description": "<C-Delete> (Standard)",
          "manipulators": [
             {
                "conditions": [
@@ -1147,7 +1147,7 @@
          ]
       },
       {
-         "description": "Enter (Ctrl)",
+         "description": "<C-Enter> (Standard)",
          "manipulators": [
             {
                "conditions": [
@@ -1211,7 +1211,7 @@
          ]
       },
       {
-         "description": "Enter (Ctrl+Shift)",
+         "description": "<C-S-Enter> (Standard)",
          "manipulators": [
             {
                "conditions": [
@@ -1277,7 +1277,7 @@
          ]
       },
       {
-         "description": "A (Ctrl)",
+         "description": "<C-a> (Standard)",
          "manipulators": [
             {
                "conditions": [
@@ -1341,7 +1341,7 @@
          ]
       },
       {
-         "description": "B (Ctrl)",
+         "description": "<C-b> (Standard)",
          "manipulators": [
             {
                "conditions": [
@@ -1405,7 +1405,7 @@
          ]
       },
       {
-         "description": "C (Ctrl)",
+         "description": "<C-c> (Standard)",
          "manipulators": [
             {
                "conditions": [
@@ -1469,7 +1469,7 @@
          ]
       },
       {
-         "description": "C (Ctrl+Shift) [Only Terminal Emulators]",
+         "description": "<C-S-c> (Terminal Emulators)",
          "manipulators": [
             {
                "conditions": [
@@ -1518,7 +1518,7 @@
          ]
       },
       {
-         "description": "F (Ctrl)",
+         "description": "<C-f> (Standard)",
          "manipulators": [
             {
                "conditions": [
@@ -1582,7 +1582,7 @@
          ]
       },
       {
-         "description": "H (Ctrl) [Only Web Browsers]",
+         "description": "<C-h> (Web Browsers)",
          "manipulators": [
             {
                "conditions": [
@@ -1631,7 +1631,7 @@
          ]
       },
       {
-         "description": "I (Ctrl)",
+         "description": "<C-i> (Standard)",
          "manipulators": [
             {
                "conditions": [
@@ -1695,7 +1695,7 @@
          ]
       },
       {
-         "description": "L (Ctrl) [Only Web Browsers]",
+         "description": "<C-l> (Web Browsers)",
          "manipulators": [
             {
                "conditions": [
@@ -1744,7 +1744,7 @@
          ]
       },
       {
-         "description": "L (Win) [Lock Screen]",
+         "description": "<Win-l> (Lock Screen)",
          "manipulators": [
             {
                "conditions": [
@@ -1784,7 +1784,7 @@
          ]
       },
       {
-         "description": "L (Win) [Sleep]",
+         "description": "<Win-l> (Sleep)",
          "manipulators": [
             {
                "conditions": [
@@ -1824,7 +1824,7 @@
          ]
       },
       {
-         "description": "L (Alt+Ctrl) [Lock Screen]",
+         "description": "<Alt-Ctrl-l> (Lock Screen)",
          "manipulators": [
             {
                "conditions": [
@@ -1865,7 +1865,7 @@
          ]
       },
       {
-         "description": "L (Alt+Ctrl) [Sleep]",
+         "description": "<Alt-Ctrl-l> (Sleep)",
          "manipulators": [
             {
                "conditions": [
@@ -1906,7 +1906,7 @@
          ]
       },
       {
-         "description": "N (Ctrl)",
+         "description": "<C-n> (Standard)",
          "manipulators": [
             {
                "conditions": [
@@ -1970,7 +1970,7 @@
          ]
       },
       {
-         "description": "O (Ctrl)",
+         "description": "<C-o> (Standard)",
          "manipulators": [
             {
                "conditions": [
@@ -2034,7 +2034,7 @@
          ]
       },
       {
-         "description": "P (Ctrl)",
+         "description": "<C-p> (Standard)",
          "manipulators": [
             {
                "conditions": [
@@ -2098,7 +2098,7 @@
          ]
       },
       {
-         "description": "R (Ctrl)",
+         "description": "<C-r> (Standard)",
          "manipulators": [
             {
                "conditions": [
@@ -2162,7 +2162,7 @@
          ]
       },
       {
-         "description": "S (Ctrl)",
+         "description": "<C-s> (Standard)",
          "manipulators": [
             {
                "conditions": [
@@ -2226,7 +2226,7 @@
          ]
       },
       {
-         "description": "T (Ctrl)",
+         "description": "<C-t> (Standard)",
          "manipulators": [
             {
                "conditions": [
@@ -2290,7 +2290,7 @@
          ]
       },
       {
-         "description": "U (Ctrl)",
+         "description": "<C-u> (Standard)",
          "manipulators": [
             {
                "conditions": [
@@ -2354,7 +2354,7 @@
          ]
       },
       {
-         "description": "V (Ctrl)",
+         "description": "<C-v> (Standard)",
          "manipulators": [
             {
                "conditions": [
@@ -2418,7 +2418,7 @@
          ]
       },
       {
-         "description": "V (Ctrl+Shift) [Only Terminal Emulators]",
+         "description": "<C-S-v> (Terminal Emulators)",
          "manipulators": [
             {
                "conditions": [
@@ -2467,7 +2467,7 @@
          ]
       },
       {
-         "description": "W (Ctrl)",
+         "description": "<C-w> (Standard)",
          "manipulators": [
             {
                "conditions": [
@@ -2531,7 +2531,7 @@
          ]
       },
       {
-         "description": "X (Ctrl)",
+         "description": "<C-x> (Standard)",
          "manipulators": [
             {
                "conditions": [
@@ -2595,7 +2595,7 @@
          ]
       },
       {
-         "description": "Y (Ctrl)",
+         "description": "<C-y> (Standard)",
          "manipulators": [
             {
                "conditions": [
@@ -2659,7 +2659,7 @@
          ]
       },
       {
-         "description": "Z (Ctrl)",
+         "description": "<C-z> (Standard)",
          "manipulators": [
             {
                "conditions": [
@@ -2723,7 +2723,7 @@
          ]
       },
       {
-         "description": "/ (Ctrl) [+Terminal Emulators]",
+         "description": "<C-/> (Terminal Emulators)",
          "manipulators": [
             {
                "conditions": [
@@ -2782,7 +2782,7 @@
          ]
       },
       {
-         "description": "Space (Ctrl)",
+         "description": "<C-Space> (Standard)",
          "manipulators": [
             {
                "conditions": [
@@ -2846,7 +2846,7 @@
          ]
       },
       {
-         "description": "Tab (Alt) [+IDEs and Terminal Emulators]",
+         "description": "<Alt-Tab> (IDEs and Terminal Emulators)",
          "manipulators": [
             {
                "conditions": [
@@ -2898,7 +2898,7 @@
          ]
       },
       {
-         "description": "F1",
+         "description": "<F1> (Standard)",
          "manipulators": [
             {
                "conditions": [
@@ -2960,7 +2960,7 @@
          ]
       },
       {
-         "description": "F3",
+         "description": "<F3> (Standard)",
          "manipulators": [
             {
                "conditions": [
@@ -3021,7 +3021,7 @@
          ]
       },
       {
-         "description": "F4 (Alt) [+Terminal Emulators]",
+         "description": "<Alt-F4> (Terminal Emulators)",
          "manipulators": [
             {
                "conditions": [
@@ -3080,7 +3080,7 @@
          ]
       },
       {
-         "description": "F4 (Ctrl) [Only Browsers]",
+         "description": "<C-F4> (Web Browsers)",
          "manipulators": [
             {
                "conditions": [
@@ -3129,7 +3129,7 @@
          ]
       },
       {
-         "description": "F5 [Only Browsers]",
+         "description": "<F5> (Web Browsers)",
          "manipulators": [
             {
                "conditions": [
