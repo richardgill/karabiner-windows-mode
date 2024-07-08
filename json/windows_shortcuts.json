@@ -1744,168 +1744,6 @@
          ]
       },
       {
-         "description": "<Win-l> (Lock Screen)",
-         "manipulators": [
-            {
-               "conditions": [
-                  {
-                     "identifiers": [
-                        {
-                           "product_id": 2040,
-                           "vendor_id": 1118
-                        }
-                     ],
-                     "type": "device_if"
-                  },
-                  [ ]
-               ],
-               "from": {
-                  "key_code": "l",
-                  "modifiers": {
-                     "mandatory": [
-                        "command"
-                     ],
-                     "optional": [
-                        "any"
-                     ]
-                  }
-               },
-               "to": [
-                  {
-                     "key_code": "q",
-                     "modifiers": [
-                        "control",
-                        "command"
-                     ]
-                  }
-               ],
-               "type": "basic"
-            }
-         ]
-      },
-      {
-         "description": "<Win-l> (Sleep)",
-         "manipulators": [
-            {
-               "conditions": [
-                  {
-                     "identifiers": [
-                        {
-                           "product_id": 2040,
-                           "vendor_id": 1118
-                        }
-                     ],
-                     "type": "device_if"
-                  },
-                  [ ]
-               ],
-               "from": {
-                  "key_code": "l",
-                  "modifiers": {
-                     "mandatory": [
-                        "command"
-                     ],
-                     "optional": [
-                        "any"
-                     ]
-                  }
-               },
-               "to": [
-                  {
-                     "key_code": "power",
-                     "modifiers": [
-                        "control",
-                        "shift"
-                     ]
-                  }
-               ],
-               "type": "basic"
-            }
-         ]
-      },
-      {
-         "description": "<Alt-Ctrl-l> (Lock Screen)",
-         "manipulators": [
-            {
-               "conditions": [
-                  {
-                     "identifiers": [
-                        {
-                           "product_id": 2040,
-                           "vendor_id": 1118
-                        }
-                     ],
-                     "type": "device_if"
-                  },
-                  [ ]
-               ],
-               "from": {
-                  "key_code": "l",
-                  "modifiers": {
-                     "mandatory": [
-                        "control",
-                        "option"
-                     ],
-                     "optional": [
-                        "any"
-                     ]
-                  }
-               },
-               "to": [
-                  {
-                     "key_code": "q",
-                     "modifiers": [
-                        "control",
-                        "command"
-                     ]
-                  }
-               ],
-               "type": "basic"
-            }
-         ]
-      },
-      {
-         "description": "<Alt-Ctrl-l> (Sleep)",
-         "manipulators": [
-            {
-               "conditions": [
-                  {
-                     "identifiers": [
-                        {
-                           "product_id": 2040,
-                           "vendor_id": 1118
-                        }
-                     ],
-                     "type": "device_if"
-                  },
-                  [ ]
-               ],
-               "from": {
-                  "key_code": "l",
-                  "modifiers": {
-                     "mandatory": [
-                        "control",
-                        "option"
-                     ],
-                     "optional": [
-                        "any"
-                     ]
-                  }
-               },
-               "to": [
-                  {
-                     "key_code": "power",
-                     "modifiers": [
-                        "control",
-                        "shift"
-                     ]
-                  }
-               ],
-               "type": "basic"
-            }
-         ]
-      },
-      {
          "description": "<C-n> (Standard)",
          "manipulators": [
             {
@@ -2846,181 +2684,6 @@
          ]
       },
       {
-         "description": "<Alt-Tab> (IDEs and Terminal Emulators)",
-         "manipulators": [
-            {
-               "conditions": [
-                  {
-                     "identifiers": [
-                        {
-                           "product_id": 2040,
-                           "vendor_id": 1118
-                        }
-                     ],
-                     "type": "device_if"
-                  },
-                  {
-                     "bundle_identifiers": [
-                        "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                        "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
-                        "^com\\.utmapp\\.UTM$",
-                        "^com\\.citrix\\.XenAppViewer$",
-                        "^com\\.microsoft\\.rdc\\.macos$"
-                     ],
-                     "file_paths": [
-                        "Chrome Remote Desktop\\.app"
-                     ],
-                     "type": "frontmost_application_unless"
-                  }
-               ],
-               "from": {
-                  "key_code": "tab",
-                  "modifiers": {
-                     "mandatory": [
-                        "option"
-                     ],
-                     "optional": [
-                        "any"
-                     ]
-                  }
-               },
-               "to": [
-                  {
-                     "key_code": "tab",
-                     "modifiers": [
-                        "command"
-                     ]
-                  }
-               ],
-               "type": "basic"
-            }
-         ]
-      },
-      {
-         "description": "<F1> (Standard)",
-         "manipulators": [
-            {
-               "conditions": [
-                  {
-                     "identifiers": [
-                        {
-                           "product_id": 2040,
-                           "vendor_id": 1118
-                        }
-                     ],
-                     "type": "device_if"
-                  },
-                  {
-                     "bundle_identifiers": [
-                        "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                        "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
-                        "^com\\.utmapp\\.UTM$",
-                        "^org\\.gnu\\.emacs$",
-                        "^org\\.gnu\\.Emacs$",
-                        "^com\\.jetbrains",
-                        "^com\\.microsoft\\.VSCode$",
-                        "^com\\.vscodium$",
-                        "^com\\.sublimetext\\.3$",
-                        "^net\\.kovidgoyal\\.kitty$",
-                        "^com\\.citrix\\.XenAppViewer$",
-                        "^com\\.microsoft\\.rdc\\.macos$",
-                        "^org\\.alacritty$",
-                        "^co\\.zeit\\.hyper$",
-                        "^com\\.googlecode\\.iterm2$",
-                        "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
-                     ],
-                     "file_paths": [
-                        "Chrome Remote Desktop\\.app"
-                     ],
-                     "type": "frontmost_application_unless"
-                  }
-               ],
-               "from": {
-                  "key_code": "f1",
-                  "modifiers": {
-                     "optional": [
-                        "any"
-                     ]
-                  }
-               },
-               "to": [
-                  {
-                     "key_code": "slash",
-                     "modifiers": [
-                        "command",
-                        "shift"
-                     ]
-                  }
-               ],
-               "type": "basic"
-            }
-         ]
-      },
-      {
-         "description": "<F3> (Standard)",
-         "manipulators": [
-            {
-               "conditions": [
-                  {
-                     "identifiers": [
-                        {
-                           "product_id": 2040,
-                           "vendor_id": 1118
-                        }
-                     ],
-                     "type": "device_if"
-                  },
-                  {
-                     "bundle_identifiers": [
-                        "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                        "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
-                        "^com\\.utmapp\\.UTM$",
-                        "^org\\.gnu\\.emacs$",
-                        "^org\\.gnu\\.Emacs$",
-                        "^com\\.jetbrains",
-                        "^com\\.microsoft\\.VSCode$",
-                        "^com\\.vscodium$",
-                        "^com\\.sublimetext\\.3$",
-                        "^net\\.kovidgoyal\\.kitty$",
-                        "^com\\.citrix\\.XenAppViewer$",
-                        "^com\\.microsoft\\.rdc\\.macos$",
-                        "^org\\.alacritty$",
-                        "^co\\.zeit\\.hyper$",
-                        "^com\\.googlecode\\.iterm2$",
-                        "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
-                     ],
-                     "file_paths": [
-                        "Chrome Remote Desktop\\.app"
-                     ],
-                     "type": "frontmost_application_unless"
-                  }
-               ],
-               "from": {
-                  "key_code": "f3",
-                  "modifiers": {
-                     "optional": [
-                        "any"
-                     ]
-                  }
-               },
-               "to": [
-                  {
-                     "key_code": "g",
-                     "modifiers": [
-                        "command"
-                     ]
-                  }
-               ],
-               "type": "basic"
-            }
-         ]
-      },
-      {
          "description": "<Alt-F4> (Terminal Emulators)",
          "manipulators": [
             {
@@ -3167,6 +2830,56 @@
                      "key_code": "r",
                      "modifiers": [
                         "command"
+                     ]
+                  }
+               ],
+               "type": "basic"
+            }
+         ]
+      },
+      {
+         "description": "<S-F5> (Web Browsers)",
+         "manipulators": [
+            {
+               "conditions": [
+                  {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
+                  {
+                     "bundle_identifiers": [
+                        "^com\\.google\\.chrome$",
+                        "^com\\.google\\.Chrome$",
+                        "^org\\.mozilla\\.firefox$",
+                        "^org\\.mozilla\\.nightly$",
+                        "^com\\.brave\\.Browser$",
+                        "^com\\.apple\\.Safari$"
+                     ],
+                     "type": "frontmost_application_if"
+                  }
+               ],
+               "from": {
+                  "key_code": "f5",
+                  "modifiers": {
+                     "mandatory": [
+                        "shift"
+                     ],
+                     "optional": [
+                        "any"
+                     ]
+                  }
+               },
+               "to": [
+                  {
+                     "key_code": "r",
+                     "modifiers": [
+                        "command",
+                        "shift"
                      ]
                   }
                ],

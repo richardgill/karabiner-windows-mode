@@ -157,22 +157,6 @@ local devices = import 'lib/devices.libsonnet';
            k.input('l', ['control']),
            k.outputKey('l', ['command']),
            k.condition('if', bundle.webBrowsers)),
-    // Lock Screen: Maps <Win-l> to <Ctrl-Cmd-q>
-    k.rule('<Win-l> (Lock Screen)',
-           k.input('l', ['command']),
-           k.outputKey('q', ['control', 'command'])),
-    // Sleep: Maps <Win-l> to <Ctrl-Shift-Power>
-    k.rule('<Win-l> (Sleep)',
-           k.input('l', ['command']),
-           k.outputKey('power', ['control', 'shift'])),
-    // Lock Screen: Maps <Alt-Ctrl-l> to <Ctrl-Cmd-q>
-    k.rule('<Alt-Ctrl-l> (Lock Screen)',
-           k.input('l', ['control', 'option']),
-           k.outputKey('q', ['control', 'command'])),
-    // Sleep: Maps <Alt-Ctrl-l> to <Ctrl-Shift-Power>
-    k.rule('<Alt-Ctrl-l> (Sleep)',
-           k.input('l', ['control', 'option']),
-           k.outputKey('power', ['control', 'shift'])),
     // Maps <C-n> to <Cmd-n> in standard contexts
     k.rule('<C-n> (Standard)',
            k.input('n', ['control']),
@@ -249,22 +233,6 @@ local devices = import 'lib/devices.libsonnet';
            k.input('spacebar', ['control']),
            k.outputKey('spacebar', ['command']),
            k.condition('unless', bundle.standard, file_paths.standard)),
-    // Maps <Alt-Tab> to <Cmd-Tab> except in hypervisors and remote desktops
-    k.rule('<Alt-Tab> (IDEs and Terminal Emulators)',
-           k.input('tab', ['option']),
-           k.outputKey('tab', ['command']),
-           k.condition('unless', bundle.hypervisors + bundle.remoteDesktops, file_paths.remoteDesktops)),
-    // Function Keys
-    // Maps <F1> to <Cmd-Shift-/> in standard contexts
-    k.rule('<F1> (Standard)',
-           k.input('f1'),
-           k.outputKey('slash', ['command', 'shift']),
-           k.condition('unless', bundle.standard, file_paths.standard)),
-    // Maps <F3> to <Cmd-g> in standard contexts
-    k.rule('<F3> (Standard)',
-           k.input('f3'),
-           k.outputKey('g', ['command']),
-           k.condition('unless', bundle.standard, file_paths.standard)),
     // Maps <Alt-F4> to <Cmd-q> except in hypervisors, IDEs, and remote desktops
     k.rule('<Alt-F4> (Terminal Emulators)',
            k.input('f4', ['option']),
@@ -280,7 +248,10 @@ local devices = import 'lib/devices.libsonnet';
            k.input('f5'),
            k.outputKey('r', ['command']),
            k.condition('if', bundle.webBrowsers)),
-    // Special Functions
+    k.rule('<S-F5> (Web Browsers)',
+           k.input('f5', ['shift']),
+           k.outputKey('r', ['command', 'shift']),
+           k.condition('if', bundle.webBrowsers)),
     // Maps Ctrl+Left Click to Cmd+Left Click
     {
       "description": "Ctrl+Left Click opens a new tab",
