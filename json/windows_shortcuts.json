@@ -6,6 +6,15 @@
             {
                "conditions": [
                   {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
+                  {
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
@@ -55,6 +64,15 @@
             {
                "conditions": [
                   {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
+                  {
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
@@ -68,7 +86,7 @@
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
-                        "^io\\.alacritty$",
+                        "^org\\.alacritty$",
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
@@ -108,6 +126,15 @@
          "manipulators": [
             {
                "conditions": [
+                  {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
                   {
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
@@ -158,6 +185,15 @@
             {
                "conditions": [
                   {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
+                  {
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
@@ -171,7 +207,7 @@
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
-                        "^io\\.alacritty$",
+                        "^org\\.alacritty$",
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
@@ -212,6 +248,15 @@
             {
                "conditions": [
                   {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
+                  {
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
@@ -225,7 +270,7 @@
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
-                        "^io\\.alacritty$",
+                        "^org\\.alacritty$",
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
@@ -263,6 +308,15 @@
             {
                "conditions": [
                   {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
+                  {
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
@@ -276,7 +330,7 @@
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
-                        "^io\\.alacritty$",
+                        "^org\\.alacritty$",
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
@@ -317,6 +371,15 @@
             {
                "conditions": [
                   {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
+                  {
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
@@ -330,7 +393,7 @@
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
-                        "^io\\.alacritty$",
+                        "^org\\.alacritty$",
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
@@ -372,6 +435,15 @@
             {
                "conditions": [
                   {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
+                  {
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
@@ -385,7 +457,7 @@
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
-                        "^io\\.alacritty$",
+                        "^org\\.alacritty$",
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
@@ -428,6 +500,15 @@
             {
                "conditions": [
                   {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
+                  {
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
@@ -441,7 +522,7 @@
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
-                        "^io\\.alacritty$",
+                        "^org\\.alacritty$",
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
@@ -479,6 +560,15 @@
             {
                "conditions": [
                   {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
+                  {
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
@@ -492,7 +582,7 @@
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
-                        "^io\\.alacritty$",
+                        "^org\\.alacritty$",
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
@@ -533,6 +623,15 @@
             {
                "conditions": [
                   {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
+                  {
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
@@ -546,7 +645,7 @@
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
-                        "^io\\.alacritty$",
+                        "^org\\.alacritty$",
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
@@ -588,6 +687,15 @@
             {
                "conditions": [
                   {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
+                  {
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
@@ -601,7 +709,7 @@
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
-                        "^io\\.alacritty$",
+                        "^org\\.alacritty$",
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
@@ -644,6 +752,15 @@
             {
                "conditions": [
                   {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
+                  {
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
@@ -657,7 +774,7 @@
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
-                        "^io\\.alacritty$",
+                        "^org\\.alacritty$",
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
@@ -698,6 +815,15 @@
             {
                "conditions": [
                   {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
+                  {
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
@@ -711,7 +837,7 @@
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
-                        "^io\\.alacritty$",
+                        "^org\\.alacritty$",
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
@@ -754,6 +880,15 @@
             {
                "conditions": [
                   {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
+                  {
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
@@ -767,7 +902,7 @@
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
-                        "^io\\.alacritty$",
+                        "^org\\.alacritty$",
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
@@ -808,6 +943,15 @@
             {
                "conditions": [
                   {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
+                  {
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
@@ -821,7 +965,7 @@
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
-                        "^io\\.alacritty$",
+                        "^org\\.alacritty$",
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
@@ -864,6 +1008,15 @@
             {
                "conditions": [
                   {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
+                  {
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
@@ -877,7 +1030,7 @@
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
-                        "^io\\.alacritty$",
+                        "^org\\.alacritty$",
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
@@ -918,6 +1071,15 @@
             {
                "conditions": [
                   {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
+                  {
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
@@ -931,7 +1093,7 @@
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
-                        "^io\\.alacritty$",
+                        "^org\\.alacritty$",
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
@@ -972,6 +1134,15 @@
             {
                "conditions": [
                   {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
+                  {
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
@@ -985,7 +1156,7 @@
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
-                        "^io\\.alacritty$",
+                        "^org\\.alacritty$",
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
@@ -1026,6 +1197,15 @@
             {
                "conditions": [
                   {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
+                  {
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
@@ -1039,7 +1219,7 @@
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
-                        "^io\\.alacritty$",
+                        "^org\\.alacritty$",
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
@@ -1080,17 +1260,27 @@
          "description": "Win [Open Spotlight]",
          "manipulators": [
             {
+               "conditions": [
+                  {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
+                  [ ]
+               ],
                "from": {
                   "key_code": "left_command"
                },
                "to": [
                   {
-                     "key_code": "left_command"
-                  }
-               ],
-               "to_if_alone": [
-                  {
-                     "apple_vendor_keyboard_key_code": "spotlight"
+                     "key_code": "spacebar",
+                     "modifiers": [
+                        "command"
+                     ]
                   }
                ],
                "type": "basic"
@@ -1102,6 +1292,15 @@
          "manipulators": [
             {
                "conditions": [
+                  {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
                   {
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
@@ -1116,7 +1315,7 @@
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
-                        "^io\\.alacritty$",
+                        "^org\\.alacritty$",
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
@@ -1157,6 +1356,15 @@
             {
                "conditions": [
                   {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
+                  {
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
@@ -1170,7 +1378,7 @@
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
-                        "^io\\.alacritty$",
+                        "^org\\.alacritty$",
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
@@ -1211,6 +1419,15 @@
             {
                "conditions": [
                   {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
+                  {
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
@@ -1224,7 +1441,7 @@
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
-                        "^io\\.alacritty$",
+                        "^org\\.alacritty$",
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
@@ -1265,8 +1482,17 @@
             {
                "conditions": [
                   {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
+                  {
                      "bundle_identifiers": [
-                        "^io\\.alacritty$",
+                        "^org\\.alacritty$",
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
@@ -1305,6 +1531,15 @@
             {
                "conditions": [
                   {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
+                  {
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
@@ -1318,7 +1553,7 @@
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
-                        "^io\\.alacritty$",
+                        "^org\\.alacritty$",
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
@@ -1358,6 +1593,15 @@
          "manipulators": [
             {
                "conditions": [
+                  {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
                   {
                      "bundle_identifiers": [
                         "^com\\.google\\.chrome$",
@@ -1399,6 +1643,15 @@
             {
                "conditions": [
                   {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
+                  {
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
@@ -1412,7 +1665,7 @@
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
-                        "^io\\.alacritty$",
+                        "^org\\.alacritty$",
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
@@ -1453,6 +1706,15 @@
             {
                "conditions": [
                   {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
+                  {
                      "bundle_identifiers": [
                         "^com\\.google\\.chrome$",
                         "^com\\.google\\.Chrome$",
@@ -1491,6 +1753,18 @@
          "description": "L (Win) [Lock Screen]",
          "manipulators": [
             {
+               "conditions": [
+                  {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
+                  [ ]
+               ],
                "from": {
                   "key_code": "l",
                   "modifiers": {
@@ -1519,6 +1793,18 @@
          "description": "L (Win) [Sleep]",
          "manipulators": [
             {
+               "conditions": [
+                  {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
+                  [ ]
+               ],
                "from": {
                   "key_code": "l",
                   "modifiers": {
@@ -1547,6 +1833,18 @@
          "description": "L (Alt+Ctrl) [Lock Screen]",
          "manipulators": [
             {
+               "conditions": [
+                  {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
+                  [ ]
+               ],
                "from": {
                   "key_code": "l",
                   "modifiers": {
@@ -1576,6 +1874,18 @@
          "description": "L (Alt+Ctrl) [Sleep]",
          "manipulators": [
             {
+               "conditions": [
+                  {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
+                  [ ]
+               ],
                "from": {
                   "key_code": "l",
                   "modifiers": {
@@ -1607,6 +1917,15 @@
             {
                "conditions": [
                   {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
+                  {
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
@@ -1620,7 +1939,7 @@
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
-                        "^io\\.alacritty$",
+                        "^org\\.alacritty$",
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
@@ -1661,6 +1980,15 @@
             {
                "conditions": [
                   {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
+                  {
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
@@ -1674,7 +2002,7 @@
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
-                        "^io\\.alacritty$",
+                        "^org\\.alacritty$",
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
@@ -1715,6 +2043,15 @@
             {
                "conditions": [
                   {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
+                  {
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
@@ -1728,7 +2065,7 @@
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
-                        "^io\\.alacritty$",
+                        "^org\\.alacritty$",
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
@@ -1769,6 +2106,15 @@
             {
                "conditions": [
                   {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
+                  {
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
@@ -1782,7 +2128,7 @@
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
-                        "^io\\.alacritty$",
+                        "^org\\.alacritty$",
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
@@ -1823,6 +2169,15 @@
             {
                "conditions": [
                   {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
+                  {
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
@@ -1836,7 +2191,7 @@
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
-                        "^io\\.alacritty$",
+                        "^org\\.alacritty$",
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
@@ -1877,6 +2232,15 @@
             {
                "conditions": [
                   {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
+                  {
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
@@ -1890,7 +2254,7 @@
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
-                        "^io\\.alacritty$",
+                        "^org\\.alacritty$",
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
@@ -1931,6 +2295,15 @@
             {
                "conditions": [
                   {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
+                  {
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
@@ -1944,7 +2317,7 @@
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
-                        "^io\\.alacritty$",
+                        "^org\\.alacritty$",
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
@@ -1985,6 +2358,15 @@
             {
                "conditions": [
                   {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
+                  {
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
@@ -1998,7 +2380,7 @@
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
-                        "^io\\.alacritty$",
+                        "^org\\.alacritty$",
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
@@ -2039,8 +2421,17 @@
             {
                "conditions": [
                   {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
+                  {
                      "bundle_identifiers": [
-                        "^io\\.alacritty$",
+                        "^org\\.alacritty$",
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
@@ -2079,6 +2470,15 @@
             {
                "conditions": [
                   {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
+                  {
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
@@ -2092,7 +2492,7 @@
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
-                        "^io\\.alacritty$",
+                        "^org\\.alacritty$",
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
@@ -2133,6 +2533,15 @@
             {
                "conditions": [
                   {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
+                  {
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
@@ -2146,7 +2555,7 @@
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
-                        "^io\\.alacritty$",
+                        "^org\\.alacritty$",
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
@@ -2187,6 +2596,15 @@
             {
                "conditions": [
                   {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
+                  {
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
@@ -2200,7 +2618,7 @@
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
-                        "^io\\.alacritty$",
+                        "^org\\.alacritty$",
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
@@ -2241,6 +2659,15 @@
             {
                "conditions": [
                   {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
+                  {
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
@@ -2254,7 +2681,7 @@
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
-                        "^io\\.alacritty$",
+                        "^org\\.alacritty$",
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
@@ -2295,6 +2722,15 @@
             {
                "conditions": [
                   {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
+                  {
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
@@ -2333,6 +2769,15 @@
          "manipulators": [
             {
                "conditions": [
+                  {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
                   {
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
@@ -2373,6 +2818,15 @@
             {
                "conditions": [
                   {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
+                  {
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
@@ -2411,6 +2865,15 @@
          "manipulators": [
             {
                "conditions": [
+                  {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
                   {
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
@@ -2451,6 +2914,15 @@
             {
                "conditions": [
                   {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
+                  {
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
@@ -2489,6 +2961,15 @@
          "manipulators": [
             {
                "conditions": [
+                  {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
                   {
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
@@ -2529,6 +3010,15 @@
             {
                "conditions": [
                   {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
+                  {
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
@@ -2567,6 +3057,15 @@
          "manipulators": [
             {
                "conditions": [
+                  {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
                   {
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
@@ -2607,6 +3106,15 @@
             {
                "conditions": [
                   {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
+                  {
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
@@ -2645,6 +3153,15 @@
          "manipulators": [
             {
                "conditions": [
+                  {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
                   {
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
@@ -2695,6 +3212,15 @@
             {
                "conditions": [
                   {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
+                  {
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
@@ -2708,7 +3234,7 @@
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
-                        "^io\\.alacritty$",
+                        "^org\\.alacritty$",
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
@@ -2748,6 +3274,15 @@
          "manipulators": [
             {
                "conditions": [
+                  {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
                   {
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
@@ -2791,6 +3326,15 @@
             {
                "conditions": [
                   {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
+                  {
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
@@ -2804,7 +3348,7 @@
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
-                        "^io\\.alacritty$",
+                        "^org\\.alacritty$",
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
@@ -2843,6 +3387,15 @@
             {
                "conditions": [
                   {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
+                  {
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
@@ -2856,7 +3409,7 @@
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$",
-                        "^io\\.alacritty$",
+                        "^org\\.alacritty$",
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
@@ -2893,6 +3446,15 @@
          "manipulators": [
             {
                "conditions": [
+                  {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
                   {
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
@@ -2938,13 +3500,27 @@
          ]
       },
       {
-         "description": "F4 (Ctrl) [Only Chrome]",
+         "description": "F4 (Ctrl) [Only Browsers]",
          "manipulators": [
             {
                "conditions": [
                   {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
+                  {
                      "bundle_identifiers": [
-                        "^com\\.google\\.Chrome$"
+                        "^com\\.google\\.chrome$",
+                        "^com\\.google\\.Chrome$",
+                        "^org\\.mozilla\\.firefox$",
+                        "^org\\.mozilla\\.nightly$",
+                        "^com\\.brave\\.Browser$",
+                        "^com\\.apple\\.Safari$"
                      ],
                      "type": "frontmost_application_if"
                   }
@@ -2973,13 +3549,27 @@
          ]
       },
       {
-         "description": "F5 [Only Chrome]",
+         "description": "F5 [Only Browsers]",
          "manipulators": [
             {
                "conditions": [
                   {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        }
+                     ],
+                     "type": "device_if"
+                  },
+                  {
                      "bundle_identifiers": [
-                        "^com\\.google\\.Chrome$"
+                        "^com\\.google\\.chrome$",
+                        "^com\\.google\\.Chrome$",
+                        "^org\\.mozilla\\.firefox$",
+                        "^org\\.mozilla\\.nightly$",
+                        "^com\\.brave\\.Browser$",
+                        "^com\\.apple\\.Safari$"
                      ],
                      "type": "frontmost_application_if"
                   }

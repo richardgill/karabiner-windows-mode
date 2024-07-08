@@ -16,7 +16,7 @@
   //
   // condition (object, optional)
   //   condition for a trigger; use condition()
-  rule(description, input, output, condition=null):: {
+  rule(description, input, output, optionalConditions=[]):: {
     description: description,
     manipulators: [
       {
@@ -25,13 +25,20 @@
         [o.to_type]: [o.output]
         for o in if std.isArray(output) then output else [output] + []
       } + {
-        [if condition != null then 'conditions']: [
-          condition,
-        ],
+        conditions: [
+          {
+            type: 'device_if',
+            identifiers: [
+              { vendor_id: 1118, product_id: 2040 }, // microsoft keyboard 
+            ],
+          }
+        ] + [optionalConditions],
         type: 'basic',
       },
     ],
   },
+
+
 
   // input
   //

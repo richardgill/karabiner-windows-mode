@@ -41,7 +41,7 @@
   // bundle identifiers for terminal emulator applications
   terminalEmulators: [
     // Alacritty
-    '^io\\.alacritty$',
+    '^org\\.alacritty$',
     // Hyper
     '^co\\.zeit\\.hyper$',
     // iTerm2

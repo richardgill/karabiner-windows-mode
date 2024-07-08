@@ -100,8 +100,7 @@ local k = import 'lib/karabiner.libsonnet';
     k.rule('Win [Open Spotlight]',
            k.input('left_command', key_is_modifier=true),
            [
-             k.outputKey('left_command', output_type='to'),
-             k.outputKey('spotlight', output_type='to_if_alone', key_code='apple_vendor_keyboard_key_code'),
+             k.outputKey('spacebar', ['command']),
            ]),
     // Alphanumeric Keys
     k.rule('A (Ctrl)',
@@ -262,13 +261,13 @@ local k = import 'lib/karabiner.libsonnet';
            k.input('f4', ['option']),
            k.outputKey('q', ['command']),
            k.condition('unless', bundle.hypervisors + bundle.ides + bundle.remoteDesktops, file_paths.remoteDesktops)),
-    k.rule('F4 (Ctrl) [Only Chrome]',
+    k.rule('F4 (Ctrl) [Only Browsers]',
            k.input('f4', ['control']),
            k.outputKey('w', ['command']),
-           k.condition('if', ['^com\\.google\\.Chrome$'])),
-    k.rule('F5 [Only Chrome]',
+           k.condition('if', bundle.webBrowsers)),
+    k.rule('F5 [Only Browsers]',
            k.input('f5'),
            k.outputKey('r', ['command']),
-           k.condition('if', ['^com\\.google\\.Chrome$'])),
+           k.condition('if', bundle.webBrowsers)),
   ],
 }
