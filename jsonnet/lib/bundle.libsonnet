@@ -11,6 +11,8 @@
     '^com\\.parallels\\.desktop\\.console$',
     // VMWare Fusion
     '^org\\.vmware\\.fusion$',
+    // UTM
+    '^com\\.utmapp\\.UTM$',
   ],
 
   // bundle identifiers for IDE applications

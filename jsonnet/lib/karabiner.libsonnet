@@ -1,3 +1,5 @@
+local devices = import './devices.libsonnet';
+
 {
   //-----------//
   // FUNCTIONS //
@@ -25,14 +27,12 @@
         [o.to_type]: [o.output]
         for o in if std.isArray(output) then output else [output] + []
       } + {
-        conditions: [
-          {
-            type: 'device_if',
-            identifiers: [
-              { vendor_id: 1118, product_id: 2040 }, // microsoft keyboard 
-            ],
-          }
-        ] + [optionalConditions],
+        conditions: [{
+          type: 'device_if',
+          identifiers: [
+            devices.windowsKeyboard
+          ],
+        }] + [optionalConditions],
         type: 'basic',
       },
     ],

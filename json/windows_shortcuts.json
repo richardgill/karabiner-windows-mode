@@ -19,6 +19,7 @@
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
+                        "^com\\.utmapp\\.UTM$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -77,6 +78,7 @@
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
+                        "^com\\.utmapp\\.UTM$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -140,6 +142,7 @@
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
+                        "^com\\.utmapp\\.UTM$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -198,6 +201,7 @@
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
+                        "^com\\.utmapp\\.UTM$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -261,6 +265,7 @@
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
+                        "^com\\.utmapp\\.UTM$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -321,6 +326,7 @@
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
+                        "^com\\.utmapp\\.UTM$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -384,6 +390,7 @@
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
+                        "^com\\.utmapp\\.UTM$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -448,6 +455,7 @@
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
+                        "^com\\.utmapp\\.UTM$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -513,6 +521,7 @@
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
+                        "^com\\.utmapp\\.UTM$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -573,6 +582,7 @@
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
+                        "^com\\.utmapp\\.UTM$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -636,6 +646,7 @@
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
+                        "^com\\.utmapp\\.UTM$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -700,6 +711,7 @@
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
+                        "^com\\.utmapp\\.UTM$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -765,6 +777,7 @@
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
+                        "^com\\.utmapp\\.UTM$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -828,6 +841,7 @@
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
+                        "^com\\.utmapp\\.UTM$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -893,6 +907,7 @@
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
+                        "^com\\.utmapp\\.UTM$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -956,6 +971,7 @@
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
+                        "^com\\.utmapp\\.UTM$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -1021,6 +1037,7 @@
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
+                        "^com\\.utmapp\\.UTM$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -1084,6 +1101,7 @@
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
+                        "^com\\.utmapp\\.UTM$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -1147,6 +1165,7 @@
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
+                        "^com\\.utmapp\\.UTM$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -1210,6 +1229,7 @@
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
+                        "^com\\.utmapp\\.UTM$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -1257,37 +1277,6 @@
          ]
       },
       {
-         "description": "Win [Open Spotlight]",
-         "manipulators": [
-            {
-               "conditions": [
-                  {
-                     "identifiers": [
-                        {
-                           "product_id": 2040,
-                           "vendor_id": 1118
-                        }
-                     ],
-                     "type": "device_if"
-                  },
-                  [ ]
-               ],
-               "from": {
-                  "key_code": "left_command"
-               },
-               "to": [
-                  {
-                     "key_code": "spacebar",
-                     "modifiers": [
-                        "command"
-                     ]
-                  }
-               ],
-               "type": "basic"
-            }
-         ]
-      },
-      {
          "description": "A (Ctrl)",
          "manipulators": [
             {
@@ -1306,6 +1295,7 @@
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
+                        "^com\\.utmapp\\.UTM$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -1369,6 +1359,7 @@
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
+                        "^com\\.utmapp\\.UTM$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -1432,6 +1423,7 @@
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
+                        "^com\\.utmapp\\.UTM$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -1544,6 +1536,7 @@
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
+                        "^com\\.utmapp\\.UTM$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -1656,6 +1649,7 @@
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
+                        "^com\\.utmapp\\.UTM$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -1930,6 +1924,7 @@
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
+                        "^com\\.utmapp\\.UTM$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -1993,6 +1988,7 @@
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
+                        "^com\\.utmapp\\.UTM$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -2056,6 +2052,7 @@
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
+                        "^com\\.utmapp\\.UTM$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -2119,6 +2116,7 @@
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
+                        "^com\\.utmapp\\.UTM$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -2182,6 +2180,7 @@
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
+                        "^com\\.utmapp\\.UTM$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -2245,6 +2244,7 @@
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
+                        "^com\\.utmapp\\.UTM$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -2308,6 +2308,7 @@
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
+                        "^com\\.utmapp\\.UTM$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -2371,6 +2372,7 @@
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
+                        "^com\\.utmapp\\.UTM$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -2483,6 +2485,7 @@
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
+                        "^com\\.utmapp\\.UTM$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -2546,6 +2549,7 @@
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
+                        "^com\\.utmapp\\.UTM$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -2609,6 +2613,7 @@
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
+                        "^com\\.utmapp\\.UTM$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -2672,6 +2677,7 @@
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
+                        "^com\\.utmapp\\.UTM$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -2717,438 +2723,6 @@
          ]
       },
       {
-         "description": "1 (Cmd) [Open first pinned Dock app (Finder); +IDEs and Terminal Emulators]",
-         "manipulators": [
-            {
-               "conditions": [
-                  {
-                     "identifiers": [
-                        {
-                           "product_id": 2040,
-                           "vendor_id": 1118
-                        }
-                     ],
-                     "type": "device_if"
-                  },
-                  {
-                     "bundle_identifiers": [
-                        "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                        "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
-                        "^com\\.citrix\\.XenAppViewer$",
-                        "^com\\.microsoft\\.rdc\\.macos$"
-                     ],
-                     "file_paths": [
-                        "Chrome Remote Desktop\\.app"
-                     ],
-                     "type": "frontmost_application_unless"
-                  }
-               ],
-               "from": {
-                  "key_code": "1",
-                  "modifiers": {
-                     "mandatory": [
-                        "command"
-                     ],
-                     "optional": [
-                        "any"
-                     ]
-                  }
-               },
-               "to": [
-                  {
-                     "shell_command": "open -b com.apple.finder"
-                  }
-               ],
-               "type": "basic"
-            }
-         ]
-      },
-      {
-         "description": "2 (Cmd) [Open second pinned Dock app; +IDEs and Terminal Emulators]",
-         "manipulators": [
-            {
-               "conditions": [
-                  {
-                     "identifiers": [
-                        {
-                           "product_id": 2040,
-                           "vendor_id": 1118
-                        }
-                     ],
-                     "type": "device_if"
-                  },
-                  {
-                     "bundle_identifiers": [
-                        "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                        "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
-                        "^com\\.citrix\\.XenAppViewer$",
-                        "^com\\.microsoft\\.rdc\\.macos$"
-                     ],
-                     "file_paths": [
-                        "Chrome Remote Desktop\\.app"
-                     ],
-                     "type": "frontmost_application_unless"
-                  }
-               ],
-               "from": {
-                  "key_code": "2",
-                  "modifiers": {
-                     "mandatory": [
-                        "command"
-                     ],
-                     "optional": [
-                        "any"
-                     ]
-                  }
-               },
-               "to": [
-                  {
-                     "shell_command": "open -b $(/usr/libexec/PlistBuddy -c 'print :persistent-apps:0:tile-data:bundle-identifier' ~/Library/Preferences/com.apple.dock.plist)"
-                  }
-               ],
-               "type": "basic"
-            }
-         ]
-      },
-      {
-         "description": "3 (Cmd) [Open third pinned Dock app; +IDEs and Terminal Emulators]",
-         "manipulators": [
-            {
-               "conditions": [
-                  {
-                     "identifiers": [
-                        {
-                           "product_id": 2040,
-                           "vendor_id": 1118
-                        }
-                     ],
-                     "type": "device_if"
-                  },
-                  {
-                     "bundle_identifiers": [
-                        "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                        "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
-                        "^com\\.citrix\\.XenAppViewer$",
-                        "^com\\.microsoft\\.rdc\\.macos$"
-                     ],
-                     "file_paths": [
-                        "Chrome Remote Desktop\\.app"
-                     ],
-                     "type": "frontmost_application_unless"
-                  }
-               ],
-               "from": {
-                  "key_code": "3",
-                  "modifiers": {
-                     "mandatory": [
-                        "command"
-                     ],
-                     "optional": [
-                        "any"
-                     ]
-                  }
-               },
-               "to": [
-                  {
-                     "shell_command": "open -b $(/usr/libexec/PlistBuddy -c 'print :persistent-apps:1:tile-data:bundle-identifier' ~/Library/Preferences/com.apple.dock.plist)"
-                  }
-               ],
-               "type": "basic"
-            }
-         ]
-      },
-      {
-         "description": "4 (Cmd) [Open fourth pinned Dock app; +IDEs and Terminal Emulators]",
-         "manipulators": [
-            {
-               "conditions": [
-                  {
-                     "identifiers": [
-                        {
-                           "product_id": 2040,
-                           "vendor_id": 1118
-                        }
-                     ],
-                     "type": "device_if"
-                  },
-                  {
-                     "bundle_identifiers": [
-                        "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                        "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
-                        "^com\\.citrix\\.XenAppViewer$",
-                        "^com\\.microsoft\\.rdc\\.macos$"
-                     ],
-                     "file_paths": [
-                        "Chrome Remote Desktop\\.app"
-                     ],
-                     "type": "frontmost_application_unless"
-                  }
-               ],
-               "from": {
-                  "key_code": "4",
-                  "modifiers": {
-                     "mandatory": [
-                        "command"
-                     ],
-                     "optional": [
-                        "any"
-                     ]
-                  }
-               },
-               "to": [
-                  {
-                     "shell_command": "open -b $(/usr/libexec/PlistBuddy -c 'print :persistent-apps:2:tile-data:bundle-identifier' ~/Library/Preferences/com.apple.dock.plist)"
-                  }
-               ],
-               "type": "basic"
-            }
-         ]
-      },
-      {
-         "description": "5 (Cmd) [Open fifth pinned Dock app; +IDEs and Terminal Emulators]",
-         "manipulators": [
-            {
-               "conditions": [
-                  {
-                     "identifiers": [
-                        {
-                           "product_id": 2040,
-                           "vendor_id": 1118
-                        }
-                     ],
-                     "type": "device_if"
-                  },
-                  {
-                     "bundle_identifiers": [
-                        "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                        "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
-                        "^com\\.citrix\\.XenAppViewer$",
-                        "^com\\.microsoft\\.rdc\\.macos$"
-                     ],
-                     "file_paths": [
-                        "Chrome Remote Desktop\\.app"
-                     ],
-                     "type": "frontmost_application_unless"
-                  }
-               ],
-               "from": {
-                  "key_code": "5",
-                  "modifiers": {
-                     "mandatory": [
-                        "command"
-                     ],
-                     "optional": [
-                        "any"
-                     ]
-                  }
-               },
-               "to": [
-                  {
-                     "shell_command": "open -b $(/usr/libexec/PlistBuddy -c 'print :persistent-apps:3:tile-data:bundle-identifier' ~/Library/Preferences/com.apple.dock.plist)"
-                  }
-               ],
-               "type": "basic"
-            }
-         ]
-      },
-      {
-         "description": "6 (Cmd) [Open sixth pinned Dock app; +IDEs and Terminal Emulators]",
-         "manipulators": [
-            {
-               "conditions": [
-                  {
-                     "identifiers": [
-                        {
-                           "product_id": 2040,
-                           "vendor_id": 1118
-                        }
-                     ],
-                     "type": "device_if"
-                  },
-                  {
-                     "bundle_identifiers": [
-                        "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                        "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
-                        "^com\\.citrix\\.XenAppViewer$",
-                        "^com\\.microsoft\\.rdc\\.macos$"
-                     ],
-                     "file_paths": [
-                        "Chrome Remote Desktop\\.app"
-                     ],
-                     "type": "frontmost_application_unless"
-                  }
-               ],
-               "from": {
-                  "key_code": "6",
-                  "modifiers": {
-                     "mandatory": [
-                        "command"
-                     ],
-                     "optional": [
-                        "any"
-                     ]
-                  }
-               },
-               "to": [
-                  {
-                     "shell_command": "open -b $(/usr/libexec/PlistBuddy -c 'print :persistent-apps:4:tile-data:bundle-identifier' ~/Library/Preferences/com.apple.dock.plist)"
-                  }
-               ],
-               "type": "basic"
-            }
-         ]
-      },
-      {
-         "description": "7 (Cmd) [Open seventh pinned Dock app; +IDEs and Terminal Emulators]",
-         "manipulators": [
-            {
-               "conditions": [
-                  {
-                     "identifiers": [
-                        {
-                           "product_id": 2040,
-                           "vendor_id": 1118
-                        }
-                     ],
-                     "type": "device_if"
-                  },
-                  {
-                     "bundle_identifiers": [
-                        "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                        "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
-                        "^com\\.citrix\\.XenAppViewer$",
-                        "^com\\.microsoft\\.rdc\\.macos$"
-                     ],
-                     "file_paths": [
-                        "Chrome Remote Desktop\\.app"
-                     ],
-                     "type": "frontmost_application_unless"
-                  }
-               ],
-               "from": {
-                  "key_code": "7",
-                  "modifiers": {
-                     "mandatory": [
-                        "command"
-                     ],
-                     "optional": [
-                        "any"
-                     ]
-                  }
-               },
-               "to": [
-                  {
-                     "shell_command": "open -b $(/usr/libexec/PlistBuddy -c 'print :persistent-apps:5:tile-data:bundle-identifier' ~/Library/Preferences/com.apple.dock.plist)"
-                  }
-               ],
-               "type": "basic"
-            }
-         ]
-      },
-      {
-         "description": "8 (Cmd) [Open eighth pinned Dock app; +IDEs and Terminal Emulators]",
-         "manipulators": [
-            {
-               "conditions": [
-                  {
-                     "identifiers": [
-                        {
-                           "product_id": 2040,
-                           "vendor_id": 1118
-                        }
-                     ],
-                     "type": "device_if"
-                  },
-                  {
-                     "bundle_identifiers": [
-                        "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                        "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
-                        "^com\\.citrix\\.XenAppViewer$",
-                        "^com\\.microsoft\\.rdc\\.macos$"
-                     ],
-                     "file_paths": [
-                        "Chrome Remote Desktop\\.app"
-                     ],
-                     "type": "frontmost_application_unless"
-                  }
-               ],
-               "from": {
-                  "key_code": "8",
-                  "modifiers": {
-                     "mandatory": [
-                        "command"
-                     ],
-                     "optional": [
-                        "any"
-                     ]
-                  }
-               },
-               "to": [
-                  {
-                     "shell_command": "open -b $(/usr/libexec/PlistBuddy -c 'print :persistent-apps:6:tile-data:bundle-identifier' ~/Library/Preferences/com.apple.dock.plist)"
-                  }
-               ],
-               "type": "basic"
-            }
-         ]
-      },
-      {
-         "description": "9 (Cmd) [Open ninth pinned Dock app; +IDEs and Terminal Emulators]",
-         "manipulators": [
-            {
-               "conditions": [
-                  {
-                     "identifiers": [
-                        {
-                           "product_id": 2040,
-                           "vendor_id": 1118
-                        }
-                     ],
-                     "type": "device_if"
-                  },
-                  {
-                     "bundle_identifiers": [
-                        "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                        "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
-                        "^com\\.citrix\\.XenAppViewer$",
-                        "^com\\.microsoft\\.rdc\\.macos$"
-                     ],
-                     "file_paths": [
-                        "Chrome Remote Desktop\\.app"
-                     ],
-                     "type": "frontmost_application_unless"
-                  }
-               ],
-               "from": {
-                  "key_code": "9",
-                  "modifiers": {
-                     "mandatory": [
-                        "command"
-                     ],
-                     "optional": [
-                        "any"
-                     ]
-                  }
-               },
-               "to": [
-                  {
-                     "shell_command": "open -b $(/usr/libexec/PlistBuddy -c 'print :persistent-apps:7:tile-data:bundle-identifier' ~/Library/Preferences/com.apple.dock.plist)"
-                  }
-               ],
-               "type": "basic"
-            }
-         ]
-      },
-      {
          "description": "/ (Ctrl) [+Terminal Emulators]",
          "manipulators": [
             {
@@ -3167,6 +2741,7 @@
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
+                        "^com\\.utmapp\\.UTM$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -3225,6 +2800,7 @@
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
+                        "^com\\.utmapp\\.UTM$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -3288,6 +2864,7 @@
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
+                        "^com\\.utmapp\\.UTM$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$"
                      ],
@@ -3339,6 +2916,7 @@
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
+                        "^com\\.utmapp\\.UTM$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -3400,6 +2978,7 @@
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
+                        "^com\\.utmapp\\.UTM$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -3460,6 +3039,7 @@
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
+                        "^com\\.utmapp\\.UTM$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -3588,6 +3168,30 @@
                      "modifiers": [
                         "command"
                      ]
+                  }
+               ],
+               "type": "basic"
+            }
+         ]
+      },
+      {
+         "description": "Ctrl+Left Click opens a new tab",
+         "manipulators": [
+            {
+               "from": {
+                  "modifiers": {
+                     "mandatory": [
+                        "control"
+                     ]
+                  },
+                  "pointing_button": "button1"
+               },
+               "to": [
+                  {
+                     "modifiers": [
+                        "command"
+                     ],
+                     "pointing_button": "button1"
                   }
                ],
                "type": "basic"

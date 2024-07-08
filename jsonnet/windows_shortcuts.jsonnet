@@ -5,6 +5,7 @@
 local bundle = import 'lib/bundle.libsonnet';
 local file_paths = import 'lib/file_paths.libsonnet';
 local k = import 'lib/karabiner.libsonnet';
+local devices = import 'lib/devices.libsonnet';
 
 
 //------//
@@ -96,12 +97,6 @@ local k = import 'lib/karabiner.libsonnet';
            k.input('return_or_enter', ['control', 'shift']),
            k.outputKey('return_or_enter', ['command', 'shift']),
            k.condition('unless', bundle.standard, file_paths.standard)),
-    // Modifier Keys
-    k.rule('Win [Open Spotlight]',
-           k.input('left_command', key_is_modifier=true),
-           [
-             k.outputKey('spacebar', ['command']),
-           ]),
     // Alphanumeric Keys
     k.rule('A (Ctrl)',
            k.input('a', ['control']),
@@ -199,42 +194,6 @@ local k = import 'lib/karabiner.libsonnet';
            k.input('z', ['control']),
            k.outputKey('z', ['command']),
            k.condition('unless', bundle.standard, file_paths.standard)),
-    k.rule('1 (Cmd) [Open first pinned Dock app (Finder); +IDEs and Terminal Emulators]',
-           k.input('1', ['command']),
-           k.outputShell('open -b com.apple.finder'),
-           k.condition('unless', bundle.hypervisors + bundle.remoteDesktops, file_paths.standard)),
-    k.rule('2 (Cmd) [Open second pinned Dock app; +IDEs and Terminal Emulators]',
-           k.input('2', ['command']),
-           k.runDockedApp('0'),
-           k.condition('unless', bundle.hypervisors + bundle.remoteDesktops, file_paths.standard)),
-    k.rule('3 (Cmd) [Open third pinned Dock app; +IDEs and Terminal Emulators]',
-           k.input('3', ['command']),
-           k.runDockedApp('1'),
-           k.condition('unless', bundle.hypervisors + bundle.remoteDesktops, file_paths.standard)),
-    k.rule('4 (Cmd) [Open fourth pinned Dock app; +IDEs and Terminal Emulators]',
-           k.input('4', ['command']),
-           k.runDockedApp('2'),
-           k.condition('unless', bundle.hypervisors + bundle.remoteDesktops, file_paths.standard)),
-    k.rule('5 (Cmd) [Open fifth pinned Dock app; +IDEs and Terminal Emulators]',
-           k.input('5', ['command']),
-           k.runDockedApp('3'),
-           k.condition('unless', bundle.hypervisors + bundle.remoteDesktops, file_paths.standard)),
-    k.rule('6 (Cmd) [Open sixth pinned Dock app; +IDEs and Terminal Emulators]',
-           k.input('6', ['command']),
-           k.runDockedApp('4'),
-           k.condition('unless', bundle.hypervisors + bundle.remoteDesktops, file_paths.standard)),
-    k.rule('7 (Cmd) [Open seventh pinned Dock app; +IDEs and Terminal Emulators]',
-           k.input('7', ['command']),
-           k.runDockedApp('5'),
-           k.condition('unless', bundle.hypervisors + bundle.remoteDesktops, file_paths.standard)),
-    k.rule('8 (Cmd) [Open eighth pinned Dock app; +IDEs and Terminal Emulators]',
-           k.input('8', ['command']),
-           k.runDockedApp('6'),
-           k.condition('unless', bundle.hypervisors + bundle.remoteDesktops, file_paths.standard)),
-    k.rule('9 (Cmd) [Open ninth pinned Dock app; +IDEs and Terminal Emulators]',
-           k.input('9', ['command']),
-           k.runDockedApp('7'),
-           k.condition('unless', bundle.hypervisors + bundle.remoteDesktops, file_paths.standard)),
     // Punctuation Keys
     k.rule('/ (Ctrl) [+Terminal Emulators]',
            k.input('slash', ['control']),
@@ -269,5 +228,25 @@ local k = import 'lib/karabiner.libsonnet';
            k.input('f5'),
            k.outputKey('r', ['command']),
            k.condition('if', bundle.webBrowsers)),
+    {
+      "description": "Ctrl+Left Click opens a new tab",
+      "manipulators": [
+        {
+          "type": "basic",
+          "from": {
+            "pointing_button": "button1",
+            "modifiers": {
+              "mandatory": ["control"]
+            }
+          },
+          "to": [
+            {
+              "pointing_button": "button1",
+              "modifiers": ["command"]
+            }
+          ],
+        }
+      ]
+    }
   ],
 }
