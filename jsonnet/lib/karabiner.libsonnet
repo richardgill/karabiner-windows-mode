@@ -30,7 +30,8 @@ local devices = import './devices.libsonnet';
         conditions: [{
           type: 'device_if',
           identifiers: [
-            devices.windowsKeyboard
+            devices.windowsKeyboard,
+            devices.glove80
           ],
         }] + [optionalConditions],
         type: 'basic',
