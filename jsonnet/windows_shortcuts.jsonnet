@@ -252,6 +252,15 @@ local devices = import 'lib/devices.libsonnet';
            k.input('f5', ['shift']),
            k.outputKey('r', ['command', 'shift']),
            k.condition('if', bundle.webBrowsers)),
+    k.rule('L (Win) [Lock Screen]',
+           k.input('l', ['command']),
+           k.outputKey('q', ['control', 'command'])),
+    k.rule('£ -> # on gb layout',
+           k.input('3', ['shift']),
+           k.outputKey('3', ['option'])),
+    k.rule('# -> £ on gb layout',
+           k.input('3', ['option']),
+           k.outputKey('3', ['shift'])),
     // Maps Ctrl+Left Click to Cmd+Left Click
     {
       "description": "Ctrl+Left Click opens a new tab",

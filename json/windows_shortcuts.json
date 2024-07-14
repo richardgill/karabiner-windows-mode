@@ -3076,6 +3076,133 @@
          ]
       },
       {
+         "description": "L (Win) [Lock Screen]",
+         "manipulators": [
+            {
+               "conditions": [
+                  {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        },
+                        {
+                           "product_id": 10203,
+                           "vendor_id": 5824
+                        }
+                     ],
+                     "type": "device_if"
+                  }
+               ],
+               "from": {
+                  "key_code": "l",
+                  "modifiers": {
+                     "mandatory": [
+                        "command"
+                     ],
+                     "optional": [
+                        "any"
+                     ]
+                  }
+               },
+               "to": [
+                  {
+                     "key_code": "q",
+                     "modifiers": [
+                        "control",
+                        "command"
+                     ]
+                  }
+               ],
+               "type": "basic"
+            }
+         ]
+      },
+      {
+         "description": "£ -> # on gb layout",
+         "manipulators": [
+            {
+               "conditions": [
+                  {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        },
+                        {
+                           "product_id": 10203,
+                           "vendor_id": 5824
+                        }
+                     ],
+                     "type": "device_if"
+                  }
+               ],
+               "from": {
+                  "key_code": "3",
+                  "modifiers": {
+                     "mandatory": [
+                        "shift"
+                     ],
+                     "optional": [
+                        "any"
+                     ]
+                  }
+               },
+               "to": [
+                  {
+                     "key_code": "3",
+                     "modifiers": [
+                        "option"
+                     ]
+                  }
+               ],
+               "type": "basic"
+            }
+         ]
+      },
+      {
+         "description": "# -> £ on gb layout",
+         "manipulators": [
+            {
+               "conditions": [
+                  {
+                     "identifiers": [
+                        {
+                           "product_id": 2040,
+                           "vendor_id": 1118
+                        },
+                        {
+                           "product_id": 10203,
+                           "vendor_id": 5824
+                        }
+                     ],
+                     "type": "device_if"
+                  }
+               ],
+               "from": {
+                  "key_code": "3",
+                  "modifiers": {
+                     "mandatory": [
+                        "option"
+                     ],
+                     "optional": [
+                        "any"
+                     ]
+                  }
+               },
+               "to": [
+                  {
+                     "key_code": "3",
+                     "modifiers": [
+                        "shift"
+                     ]
+                  }
+               ],
+               "type": "basic"
+            }
+         ]
+      },
+      {
          "description": "Ctrl+Left Click opens a new tab",
          "manipulators": [
             {

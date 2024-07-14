@@ -1,4 +1,14 @@
 local devices = import './devices.libsonnet';
+// This is really useful if you want to make an arry out of
+// constitutent parts which may be lists or optional.
+//
+// Returns the passed array with:
+// 1. Nulls removed
+// 2. Any elements who are arrays flattened into this arry.
+local join(a) =
+  local notNull(i) = i != null;
+  local maybeFlatten(acc, i) = if std.type(i) == "array" then acc + i else acc + [i];
+  std.foldl(maybeFlatten, std.filter(notNull, a), []);
 
 {
   //-----------//
@@ -27,13 +37,13 @@ local devices = import './devices.libsonnet';
         [o.to_type]: [o.output]
         for o in if std.isArray(output) then output else [output] + []
       } + {
-        conditions: [{
+        conditions: join([{
           type: 'device_if',
           identifiers: [
             devices.windowsKeyboard,
             devices.glove80
           ],
-        }] + [optionalConditions],
+        }] + [optionalConditions]),
         type: 'basic',
       },
     ],
