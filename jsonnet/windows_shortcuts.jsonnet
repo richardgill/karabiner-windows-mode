@@ -261,6 +261,18 @@ local devices = import 'lib/devices.libsonnet';
     k.rule('# -> £ on gb layout',
            k.input('3', ['option']),
            k.outputKey('3', ['shift'])),
+    k.rule('<Command-Shift-F4> (Custom)',
+           k.input('f4', ['command', 'shift']),
+           k.outputKey('3', ['command', 'shift'])),
+    k.rule('<Command-Shift-F5> (Custom)',
+           k.input('f5', ['command', 'shift']),
+           k.outputKey('4', ['command', 'shift'])),
+    k.rule('<Command-Shift-F6> (Custom)',
+           k.input('f6', ['command', 'shift']),
+           k.outputKey('5', ['command', 'shift'])),
+    k.rule('<Command-Shift-F11> (Custom)',
+           k.input('f11', ['command', 'shift']),
+           k.outputKey('0', ['command', 'shift'])),
     // Maps Ctrl+Left Click to Cmd+Left Click
     {
       "description": "Ctrl+Left Click opens a new tab",
