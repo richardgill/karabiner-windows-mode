@@ -36,7 +36,7 @@ local devices = import 'lib/devices.libsonnet';
            k.outputKey('v', ['command']),
            k.condition('unless', bundle.standard, file_paths.standard)),
     // Maps <Home> to <Cmd-Left Arrow> in standard contexts
-    k.rule('<Home> (Standard)',
+    k.rule('<Home> to <Cmd-Left Arrow> (standard)',
            k.input('home'),
            k.outputKey('left_arrow', ['command']),
            k.condition('unless', bundle.standard, file_paths.standard)),
@@ -46,7 +46,7 @@ local devices = import 'lib/devices.libsonnet';
            k.outputKey('up_arrow', ['command']),
            k.condition('unless', bundle.standard, file_paths.standard)),
     // Maps <S-Home> to <Cmd-Shift-Left Arrow> in standard contexts
-    k.rule('<S-Home> (Standard)',
+    k.rule('<S-Home> to <Cmd-Shift-Left Arrow> (standard)',
            k.input('home', ['shift']),
            k.outputKey('left_arrow', ['command', 'shift']),
            k.condition('unless', bundle.standard, file_paths.standard)),
@@ -56,7 +56,7 @@ local devices = import 'lib/devices.libsonnet';
            k.outputKey('up_arrow', ['command', 'shift']),
            k.condition('unless', bundle.standard, file_paths.standard)),
     // Maps <End> to <Cmd-Right Arrow> in standard contexts
-    k.rule('<End> (Standard)',
+    k.rule('<End> to <Cmd-Right Arrow> (standard)',
            k.input('end'),
            k.outputKey('right_arrow', ['command']),
            k.condition('unless', bundle.standard, file_paths.standard)),
@@ -66,7 +66,7 @@ local devices = import 'lib/devices.libsonnet';
            k.outputKey('down_arrow', ['command']),
            k.condition('unless', bundle.standard, file_paths.standard)),
     // Maps <S-End> to <Cmd-Shift-Right Arrow> in standard contexts
-    k.rule('<S-End> (Standard)',
+    k.rule('<S-End> to <Cmd-Shift-Right Arrow> (Standard)',
            k.input('end', ['shift']),
            k.outputKey('right_arrow', ['command', 'shift']),
            k.condition('unless', bundle.standard, file_paths.standard)),

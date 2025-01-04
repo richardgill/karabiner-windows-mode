@@ -26,6 +26,8 @@
     '^com\\.microsoft\\.VSCode$',
     // VSCodium - Open Source VSCode
     '^com\\.vscodium$',
+    // Cursor
+    '^com\\.todesktop.*',
     // Sublime Text
     '^com\\.sublimetext\\.3$',
     // Kitty
@@ -52,6 +54,8 @@
     '^com\\.apple\\.Terminal$',
     // WezTerm
     '^com\\.github\\.wez\\.wezterm$',
+    // Ghosty
+    '^com\\.mitchellh\\.ghostty$',
   ],
 
   // bundle identifiers for web browser applications

@@ -29,6 +29,7 @@
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.vscodium$",
+                        "^com\\.todesktop.*",
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
@@ -92,6 +93,7 @@
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.vscodium$",
+                        "^com\\.todesktop.*",
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
@@ -100,7 +102,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.mitchellh\\.ghostty$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -160,6 +163,7 @@
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.vscodium$",
+                        "^com\\.todesktop.*",
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
@@ -223,6 +227,7 @@
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.vscodium$",
+                        "^com\\.todesktop.*",
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
@@ -231,7 +236,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.mitchellh\\.ghostty$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -263,7 +269,7 @@
          ]
       },
       {
-         "description": "<Home> (Standard)",
+         "description": "<Home> to <Cmd-Left Arrow> (standard)",
          "manipulators": [
             {
                "conditions": [
@@ -291,6 +297,7 @@
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.vscodium$",
+                        "^com\\.todesktop.*",
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
@@ -299,7 +306,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.mitchellh\\.ghostty$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -356,6 +364,7 @@
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.vscodium$",
+                        "^com\\.todesktop.*",
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
@@ -364,7 +373,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.mitchellh\\.ghostty$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -396,7 +406,7 @@
          ]
       },
       {
-         "description": "<S-Home> (Standard)",
+         "description": "<S-Home> to <Cmd-Shift-Left Arrow> (standard)",
          "manipulators": [
             {
                "conditions": [
@@ -424,6 +434,7 @@
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.vscodium$",
+                        "^com\\.todesktop.*",
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
@@ -432,7 +443,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.mitchellh\\.ghostty$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -493,6 +505,7 @@
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.vscodium$",
+                        "^com\\.todesktop.*",
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
@@ -501,7 +514,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.mitchellh\\.ghostty$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -535,7 +549,7 @@
          ]
       },
       {
-         "description": "<End> (Standard)",
+         "description": "<End> to <Cmd-Right Arrow> (standard)",
          "manipulators": [
             {
                "conditions": [
@@ -563,6 +577,7 @@
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.vscodium$",
+                        "^com\\.todesktop.*",
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
@@ -571,7 +586,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.mitchellh\\.ghostty$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -628,6 +644,7 @@
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.vscodium$",
+                        "^com\\.todesktop.*",
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
@@ -636,7 +653,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.mitchellh\\.ghostty$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -668,7 +686,7 @@
          ]
       },
       {
-         "description": "<S-End> (Standard)",
+         "description": "<S-End> to <Cmd-Shift-Right Arrow> (Standard)",
          "manipulators": [
             {
                "conditions": [
@@ -696,6 +714,7 @@
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.vscodium$",
+                        "^com\\.todesktop.*",
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
@@ -704,7 +723,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.mitchellh\\.ghostty$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -765,6 +785,7 @@
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.vscodium$",
+                        "^com\\.todesktop.*",
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
@@ -773,7 +794,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.mitchellh\\.ghostty$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -835,6 +857,7 @@
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.vscodium$",
+                        "^com\\.todesktop.*",
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
@@ -843,7 +866,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.mitchellh\\.ghostty$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -903,6 +927,7 @@
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.vscodium$",
+                        "^com\\.todesktop.*",
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
@@ -911,7 +936,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.mitchellh\\.ghostty$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -973,6 +999,7 @@
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.vscodium$",
+                        "^com\\.todesktop.*",
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
@@ -981,7 +1008,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.mitchellh\\.ghostty$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1041,6 +1069,7 @@
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.vscodium$",
+                        "^com\\.todesktop.*",
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
@@ -1049,7 +1078,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.mitchellh\\.ghostty$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1111,6 +1141,7 @@
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.vscodium$",
+                        "^com\\.todesktop.*",
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
@@ -1119,7 +1150,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.mitchellh\\.ghostty$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1179,6 +1211,7 @@
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.vscodium$",
+                        "^com\\.todesktop.*",
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
@@ -1187,7 +1220,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.mitchellh\\.ghostty$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1247,6 +1281,7 @@
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.vscodium$",
+                        "^com\\.todesktop.*",
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
@@ -1255,7 +1290,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.mitchellh\\.ghostty$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1315,6 +1351,7 @@
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.vscodium$",
+                        "^com\\.todesktop.*",
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
@@ -1323,7 +1360,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.mitchellh\\.ghostty$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1385,6 +1423,7 @@
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.vscodium$",
+                        "^com\\.todesktop.*",
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
@@ -1393,7 +1432,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.mitchellh\\.ghostty$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1453,6 +1493,7 @@
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.vscodium$",
+                        "^com\\.todesktop.*",
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
@@ -1461,7 +1502,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.mitchellh\\.ghostty$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1521,6 +1563,7 @@
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.vscodium$",
+                        "^com\\.todesktop.*",
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
@@ -1529,7 +1572,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.mitchellh\\.ghostty$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1584,7 +1628,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.mitchellh\\.ghostty$"
                      ],
                      "type": "frontmost_application_if"
                   }
@@ -1642,6 +1687,7 @@
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.vscodium$",
+                        "^com\\.todesktop.*",
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
@@ -1650,7 +1696,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.mitchellh\\.ghostty$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1763,6 +1810,7 @@
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.vscodium$",
+                        "^com\\.todesktop.*",
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
@@ -1771,7 +1819,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.mitchellh\\.ghostty$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1884,6 +1933,7 @@
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.vscodium$",
+                        "^com\\.todesktop.*",
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
@@ -1892,7 +1942,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.mitchellh\\.ghostty$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1952,6 +2003,7 @@
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.vscodium$",
+                        "^com\\.todesktop.*",
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
@@ -1960,7 +2012,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.mitchellh\\.ghostty$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -2020,6 +2073,7 @@
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.vscodium$",
+                        "^com\\.todesktop.*",
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
@@ -2028,7 +2082,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.mitchellh\\.ghostty$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -2088,6 +2143,7 @@
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.vscodium$",
+                        "^com\\.todesktop.*",
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
@@ -2096,7 +2152,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.mitchellh\\.ghostty$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -2156,6 +2213,7 @@
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.vscodium$",
+                        "^com\\.todesktop.*",
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
@@ -2164,7 +2222,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.mitchellh\\.ghostty$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -2224,6 +2283,7 @@
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.vscodium$",
+                        "^com\\.todesktop.*",
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
@@ -2232,7 +2292,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.mitchellh\\.ghostty$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -2292,6 +2353,7 @@
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.vscodium$",
+                        "^com\\.todesktop.*",
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
@@ -2300,7 +2362,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.mitchellh\\.ghostty$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -2360,6 +2423,7 @@
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.vscodium$",
+                        "^com\\.todesktop.*",
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
@@ -2368,7 +2432,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.mitchellh\\.ghostty$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -2423,7 +2488,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.mitchellh\\.ghostty$"
                      ],
                      "type": "frontmost_application_if"
                   }
@@ -2481,6 +2547,7 @@
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.vscodium$",
+                        "^com\\.todesktop.*",
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
@@ -2489,7 +2556,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.mitchellh\\.ghostty$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -2549,6 +2617,7 @@
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.vscodium$",
+                        "^com\\.todesktop.*",
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
@@ -2557,7 +2626,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.mitchellh\\.ghostty$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -2617,6 +2687,7 @@
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.vscodium$",
+                        "^com\\.todesktop.*",
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
@@ -2625,7 +2696,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.mitchellh\\.ghostty$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -2685,6 +2757,7 @@
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.vscodium$",
+                        "^com\\.todesktop.*",
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
@@ -2693,7 +2766,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.mitchellh\\.ghostty$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -2753,6 +2827,7 @@
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.vscodium$",
+                        "^com\\.todesktop.*",
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
@@ -2816,6 +2891,7 @@
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.vscodium$",
+                        "^com\\.todesktop.*",
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
@@ -2824,7 +2900,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.mitchellh\\.ghostty$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -2884,6 +2961,7 @@
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.vscodium$",
+                        "^com\\.todesktop.*",
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
